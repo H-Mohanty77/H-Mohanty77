@@ -44,10 +44,6 @@ An interactive dashboard that analyses airline-related tweets to explore custome
 
 ---
 
-## 📊 GitHub Activity
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in learning, collaborating on analytics projects, and exploring new ideas.
