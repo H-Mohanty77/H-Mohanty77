@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="profile-banner.png" alt="Himanshu Mohanty — Business Analytics" width="100%" />
+</div>
+
+<br/>
+
 # Hi, I'm Himanshu Mohanty 👋
 
 ### Business Analytics | Python | Data Visualisation
