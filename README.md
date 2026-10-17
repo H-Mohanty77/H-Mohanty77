@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="profile-banner.png" alt="Himanshu Mohanty — Business Analytics" width="100%" />
-</div>
-
-<br/>
+![Himanshu Mohanty — Business Analytics](./profile-banner.png)
 
 # Hi, I'm Himanshu Mohanty 👋
 
