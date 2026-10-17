@@ -22,7 +22,7 @@ An analytics project focused on exploring e-commerce data and presenting busines
 
 **Tools:** Python, Pandas, Streamlit
 
-[View Repository](https://github.com/YOUR-USERNAME/shopease-analytics-dashboard)
+[View Repository](https://github.com/H-Mohanty77/shopease-analytics-dashboard)
 
 ### ✈️ Airline Tweet Sentiment Analysis
 
@@ -30,7 +30,7 @@ An interactive dashboard that analyses airline-related tweets to explore custome
 
 **Tools:** Python, Pandas, Streamlit, Plotly, Matplotlib
 
-[View Repository](https://github.com/YOUR-USERNAME/streamlit-sentiment-dashboard)
+[View Repository](https://github.com/H-Mohanty77/streamlit-sentiment-dashboard)
 
 ---
 
@@ -48,7 +48,7 @@ An interactive dashboard that analyses airline-related tweets to explore custome
 
 I'm always interested in learning, collaborating on analytics projects, and exploring new ideas.
 
-[My GitHub Profile](https://github.com/YOUR-USERNAME)
+[My GitHub Profile](https://github.com/H-Mohanty77)
 
 ---
 
