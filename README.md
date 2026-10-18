@@ -37,6 +37,14 @@ An analytics project focused on exploring e-commerce data and presenting busines
 
 [View Repository](https://github.com/H-Mohanty77/shopease-analytics-dashboard)
 
+### 🚗 BYD Digital Transformation Analysis
+
+A business and data analytics case study exploring how BYD uses digital technologies to improve R&D, manufacturing efficiency, customer targeting, and after-sales service. Includes an Excel case analysis and a presentation highlighting business insights and operational risks.
+
+**Tools:** Microsoft Excel, Business Analytics, Data Interpretation
+
+[View Repository](https://github.com/H-Mohanty77/BYD-Digital-Transformation-Analysis)
+
 ### ✈️ Airline Tweet Sentiment Analysis
 
 An interactive dashboard that analyses airline-related tweets to explore customer sentiment and visualise patterns in feedback.
