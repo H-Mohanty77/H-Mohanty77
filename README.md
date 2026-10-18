@@ -85,11 +85,24 @@ An interactive dashboard that analyses airline-related tweets to explore custome
 
 ---
 
-📊 GitHub Activity
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H-Mohanty77&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=H-Mohanty77&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Mohanty77&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Mohanty77&layout=compact&theme=tokyonight&hide_border=true)
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=H-Mohanty77&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+### 🗓️ Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/H-Mohanty77" alt="GitHub contribution graph" />
+</p>
 
 ---
 
