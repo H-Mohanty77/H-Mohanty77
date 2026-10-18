@@ -18,8 +18,6 @@ I enjoy building practical projects that combine **analytics, business problem-s
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ### 💻 Programming & Data Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -71,8 +69,6 @@ An interactive dashboard that analyses airline-related tweets to explore custome
 [View Repository](https://github.com/H-Mohanty77/streamlit-sentiment-dashboard)
 
 ---
-
-## 📚 Currently Learning
 
 ## 📚 Currently Learning
 
