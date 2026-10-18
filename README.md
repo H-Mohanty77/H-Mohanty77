@@ -74,11 +74,14 @@ An interactive dashboard that analyses airline-related tweets to explore custome
 
 ## 📚 Currently Learning
 
-- Data analysis with Python
-- SQL and database management
-- Statistical analysis and predictive modelling
-- Data visualisation and dashboard development
-- Business analytics and data storytelling
+## 📚 Currently Learning
+
+- 🐍 **Python for Data Analysis** — Pandas, data cleaning, and exploratory data analysis
+- 🗄️ **SQL & Database Management** — Queries, joins, aggregations, and PostgreSQL
+- 📊 **Business Intelligence** — Excel analysis, KPI tracking, and Power BI
+- 📈 **Statistics & Predictive Analytics** — Regression, hypothesis testing, and model evaluation
+- 📉 **Data Visualization** — Building interactive dashboards with Streamlit and Plotly
+- 💡 **Business Analytics** — Translating data into actionable business insights
 
 ---
 
