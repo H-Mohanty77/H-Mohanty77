@@ -16,6 +16,22 @@ I enjoy building practical projects that combine **analytics, business problem-s
 
 ---
 
+## 🌐 Socials
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/himanshu-mohanty-07367b41b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:075077@fsm.ac.in">
+    <img src="https://img.shields.io/badge/School_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="School Email"/>
+  </a>
+  <a href="mailto:himanshulkmbubu05@gmail.com">
+    <img src="https://img.shields.io/badge/Personal_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"/>
+  </a>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming & Data Analysis
